@@ -9,3 +9,7 @@ function functionUserB(){
 function superDifficultJob(){
     console.log('super job');
 }
+
+function newFromSprint1Branch(){
+    console.log('newFromSprint1Branch');
+}
